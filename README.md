@@ -1,6 +1,11 @@
 # Examen-Parcial
 Primer examen parcial de estructura de datos
 
+solo es necesario descargar el archivo examen2, se llama así porque fue el segundo en el que trabajamos para ya pulir todo
+el archivo ya tiene las carpetas en orden, solo se necesita abrir y en src está el archivo main.java
+en vsc solo es primer javac main.java(ya no me acuerdo pero aja)
+en intelijj u otras es solo ejecutar y solito jala😜
+
 Al ejecutar el archivo te da un menu
 1. Agregar canción al inicio             2. Agregar canción al final     3. Buscar canción por ID
 4. Seleccionar canción por ID              5. Eliminar canción por ID      6. Eliminar canción actual
@@ -21,3 +26,9 @@ la opcion 1 y 2 añaden canciones en el inicio o final de la lista
 10 muestra todas las canciones
 11 te dice cuantas hay
 12 ejecuta toda la lista
+
+Sanchez Mata Acatzin Sahid
+Rodriguez Martínez Carolina
+Olivares Meza Jimena
+Gónzalez Maturino Yael Alfonso
+Ávila López Angel Antonio
